@@ -1,0 +1,3 @@
+"No.","Time","Source","Destination","Protocol","Length","Info"
+"339","31.777814","101.76.244.249","128.119.245.12","HTTP","684","GET /wireshark-labs/HTTP-wireshark-file1.html HTTP/1.1 "
+"350","32.072003","128.119.245.12","101.76.244.249","HTTP","293","HTTP/1.1 304 Not Modified "
